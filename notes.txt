@@ -1,0 +1,11 @@
+*reactive forms module
+-in .ts: we use variable of type formGroup and inject var of type formBuilder into the constructor then we use the method group to create object of the used inputs attributes then equal formGroup var with all of that.
+-in template file: we bind formGroup with the variabled declared in .ts file into form element and use attribute formControlName with each input element with values matching attributes names that declared in .ts file and used in getters functions. we do this link to enable using attributes (valid, touched, invalid, dirty, errors?) for inputs and (valid, invalid, get(), value) for formGroup.
+
+*forms module
+-in template file: we use ngForm for form tag and ngModel for inputs tags as a value for uniquely named attribute to enable using attributes mentioned above.
+-we use ngModel binding to pass the value entered by the user into input field to the variable (with the same name) declared in .ts file.
+-we must set validators by hand as attributes for inputs eg(required, pattern="^[a-z1-9]+@[a-z]+\.[a-z]$") for input of type email, we also must set values for name attributes to each input to enable validators to work.
+
+-&times; is an html character representing the deletion symbol(x).
+-throw new Error() works as return command in exiting the method block.

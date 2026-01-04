@@ -1,3 +1,6 @@
 [submodule "profileCard"]
 	path = profileCard
 	url = https://github.com/semonHany-hub/profile-Card
+[submodule "counter"]
+	path = counter
+	url = https://github.com/semonHany-hub/couter.git

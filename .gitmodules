@@ -4,3 +4,6 @@
 [submodule "counter"]
 	path = counter
 	url = https://github.com/semonHany-hub/couter.git
+[submodule "simple-ToDo"]
+	path = simple-ToDo
+	url = https://github.com/semonHany-hub/simple-ToDo.git

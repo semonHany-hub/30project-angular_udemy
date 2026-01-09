@@ -7,3 +7,6 @@
 [submodule "simple-ToDo"]
 	path = simple-ToDo
 	url = https://github.com/semonHany-hub/simple-ToDo.git
+[submodule "stopWatch"]
+	path = stopWatch
+	url = https://github.com/semonHany-hub/stop-watch.git

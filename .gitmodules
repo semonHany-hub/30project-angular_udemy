@@ -10,3 +10,6 @@
 [submodule "stopWatch"]
 	path = stopWatch
 	url = https://github.com/semonHany-hub/stop-watch.git
+[submodule "guessTheNumber"]
+	path = guessTheNumber
+	url = https://github.com/semonHany-hub/guess-the-number.git

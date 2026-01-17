@@ -13,3 +13,6 @@
 [submodule "guessTheNumber"]
 	path = guessTheNumber
 	url = https://github.com/semonHany-hub/guess-the-number.git
+[submodule "Tic-Tac-Toe"]
+	path = Tic-Tac-Toe
+	url = https://github.com/semonHany-hub/Tic-Tac-Toe.git

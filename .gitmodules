@@ -16,3 +16,6 @@
 [submodule "Tic-Tac-Toe"]
 	path = Tic-Tac-Toe
 	url = https://github.com/semonHany-hub/Tic-Tac-Toe.git
+[submodule "dynamicFilterList"]
+	path = dynamicFilterList
+	url = https://github.com/semonHany-hub/dynamic-filter-list.git

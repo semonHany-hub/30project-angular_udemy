@@ -12,11 +12,14 @@
 
                             deploy to github pages:
 1- Install the deploy package inside the Angular project folder: 'npm install angular-cli-ghpages --save-dev'
-2- Build the project: 'ng build --base-href "https://semonhany-hub.github.io/repo-name/"'
+2- Build the project: 'ng build --configuration production --base-href="/repo-name/"'
 3- Deploy the project: 'npx angular-cli-ghpages --dir=dist/project-name/browser'
 4- enable github pages in the repository settings: Source → Deploy from a branch  /  Branch → gh-pages  /  Folder → / (root)  /  Click Save
 5- the site will be available at "https://semonhany-hub.github.io/repository-name/"
 * to fix error 404 after refreshing: in app.config.ts import {provideRouter, withHashLocation} from '@angular/router' then in provides list add provideRouter(routes, withHashLocation()).
+- ctrl + shift + R ->used for hard refreshing the browser.
 
--https://semonhany-hub.github.io/dynamic-filter-list/#/
--https://semonhany-hub.github.io/Tic-Tac-Toe/#/
+- https://semonhany-hub.github.io/guess-the-number/#/
+- https://semonhany-hub.github.io/Tic-Tac-Toe/#/
+- https://semonhany-hub.github.io/dynamic-filter-list/#/
+- https://semonhany-hub.github.io/paper-scissors-rock/#/

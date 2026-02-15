@@ -3,22 +3,22 @@
 	url = https://github.com/semonHany-hub/profile-Card
 [submodule "counter"]
 	path = counter
-	url = https://github.com/semonHany-hub/couter.git
+	url = https://github.com/semonHany-hub/couter
 [submodule "simple-ToDo"]
 	path = simple-ToDo
-	url = https://github.com/semonHany-hub/simple-ToDo.git
+	url = https://github.com/semonHany-hub/simple-ToDo
 [submodule "stopWatch"]
 	path = stopWatch
-	url = https://github.com/semonHany-hub/stop-watch.git
+	url = https://github.com/semonHany-hub/stop-watch
 [submodule "guessTheNumber"]
 	path = guessTheNumber
-	url = https://github.com/semonHany-hub/guess-the-number.git
+	url = https://github.com/semonHany-hub/guess-the-number
 [submodule "Tic-Tac-Toe"]
 	path = Tic-Tac-Toe
-	url = https://github.com/semonHany-hub/Tic-Tac-Toe.git
+	url = https://github.com/semonHany-hub/Tic-Tac-Toe
 [submodule "dynamicFilterList"]
 	path = dynamicFilterList
-	url = https://github.com/semonHany-hub/dynamic-filter-list.git
+	url = https://github.com/semonHany-hub/dynamic-filter-list
 [submodule "paper-scissors-rock"]
 	path = paper-scissors-rock
 	url = https://github.com/semonHany-hub/paper-scissors-rock.git

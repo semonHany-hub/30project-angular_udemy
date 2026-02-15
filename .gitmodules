@@ -19,3 +19,6 @@
 [submodule "dynamicFilterList"]
 	path = dynamicFilterList
 	url = https://github.com/semonHany-hub/dynamic-filter-list.git
+[submodule "paper-scissors-rock"]
+	path = paper-scissors-rock
+	url = https://github.com/semonHany-hub/paper-scissors-rock.git

@@ -19,6 +19,10 @@
 * to fix error 404 after refreshing: in app.config.ts import {provideRouter, withHashLocation} from '@angular/router' then in provides list add provideRouter(routes, withHashLocation()).
 - ctrl + shift + R ->used for hard refreshing the browser.
 
+- https://semonhany-hub.github.io/profile-card/#/
+- https://semonhany-hub.github.io/counter/#/
+- https://semonhany-hub.github.io/simple-ToDo/#/
+- https://semonhany-hub.github.io/stop-watch/#/
 - https://semonhany-hub.github.io/guess-the-number/#/
 - https://semonhany-hub.github.io/Tic-Tac-Toe/#/
 - https://semonhany-hub.github.io/dynamic-filter-list/#/
